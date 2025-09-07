@@ -68,7 +68,7 @@ customer-pulse-analytics-main/
 ## 👩‍💻 Author  
 **Bhavya Pratap**  
 📍 Data Analyst & Machine Learning Enthusiast  
-🔗 [Portfolio](https://github.com/bhavyapratap17) | [LinkedIn](www.linkedin.com/in/bhavyapratap17) 
+🔗 [Portfolio](https://github.com/bhavyapratap17) | [LinkedIn](https://www.linkedin.com/in/bhavyapratap17) 
 
 ---
 
