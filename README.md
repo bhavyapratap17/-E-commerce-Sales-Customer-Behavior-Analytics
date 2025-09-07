@@ -48,16 +48,11 @@ customer-pulse-analytics-main/
 ---
 
 ## 📸 Demo Preview  
-<img width="1873" height="763" alt="Image" src="https://github.com/user-attachments/assets/85bda639-e2fd-43fb-842e-e3f041a8ca04" />
-<img width="1861" height="639" alt="Image" src="https://github.com/user-attachments/assets/25869bf5-1880-47a9-b09a-4cd14580fc01" />
-<img width="1865" height="769" alt="Image" src="https://github.com/user-attachments/assets/1961c2f1-22b1-456e-9501-92bd56832736" />
-<img width="1885" height="531" alt="Image" src="https://github.com/user-attachments/assets/08512de1-af08-4f01-8910-5e80d90ce3c7" />
-<img width="1875" height="777" alt="Image" src="https://github.com/user-attachments/assets/51344a93-001a-4cff-9b4d-2dc6235987be" />
-<img width="1873" height="500" alt="Image" src="https://github.com/user-attachments/assets/83a3ce84-d0c8-41e5-a5a6-cbeeee184c2e" />
-<img width="1865" height="779" alt="Image" src="https://github.com/user-attachments/assets/a8c1548f-d07e-481c-a337-bd11cec9ae12" />
-<img width="1873" height="841" alt="Image" src="https://github.com/user-attachments/assets/c196b8e2-fb2e-46aa-9307-fcdba4f9b0da" />
-<img width="1875" height="847" alt="Image" src="https://github.com/user-attachments/assets/4f107b3c-147b-44a9-ac50-3e10fe0c6f1c" />
-<img width="1877" height="519" alt="Image" src="https://github.com/user-attachments/assets/91206b79-d799-4fa6-839c-2f5958482427" />
+<img width="1869" height="689" alt="Image" src="https://github.com/user-attachments/assets/4342c1ce-5b3b-425d-a2ec-37a384db3806" />
+<img width="1869" height="509" alt="Image" src="https://github.com/user-attachments/assets/ab1daf4c-c171-4acf-bfa0-1238d465e6b6" />
+<img width="1869" height="733" alt="Image" src="https://github.com/user-attachments/assets/c22d5d3a-8828-44b9-b615-9d630b9db6ce" />
+<img width="1877" height="631" alt="Image" src="https://github.com/user-attachments/assets/0398168f-48da-4dd7-97cc-808735585049" />
+<img width="1883" height="551" alt="Image" src="https://github.com/user-attachments/assets/b7ce990d-dbf2-433b-9f54-7068f8dd8346" />
 
 ---
 ## 🔮 Future Enhancements
